@@ -1,5 +1,4 @@
 ```mermaid
-
 sequenceDiagram
   actor user
 
@@ -22,5 +21,4 @@ Note left of server: Save input to data
   server-->>browser: sends response to browser
 
 Note left of server: 201 status code
-
 ```
